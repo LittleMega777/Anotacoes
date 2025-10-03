@@ -1,22 +1,12 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-<<<<<<< HEAD
+  "commitMessage": "anotacoes {{date}}",
   "autoCommitMessage": "vault backup: {{date}}",
-  "commitMessageScript": "",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
-  "autoPushInterval": 0,
-  "autoPullInterval": 0,
-  "autoPullOnBoot": false,
-=======
-  "autoCommitMessage": "anotaaaaa",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
->>>>>>> master/master
   "autoCommitOnlyStaged": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -28,15 +18,9 @@
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
-<<<<<<< HEAD
-  "autoBackupAfterFileChange": false,
-  "treeStructure": false,
-  "refreshSourceControl": true,
-=======
   "autoBackupAfterFileChange": true,
   "treeStructure": false,
-  "refreshSourceControl": false,
->>>>>>> master/master
+  "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
