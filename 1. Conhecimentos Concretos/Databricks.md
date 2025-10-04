@@ -1,8 +1,3 @@
-**Frases que eu pensei hoje de bobeira**
-"Ganho muito vendo de onde eu sai e pouco vendo onde eu quero chegar" - [[Mega]]
-
-**[[Databricks]]**
-
 **Como criar um streaming DataFrame a partir de um tópico Kafka**
 
 ```
@@ -40,17 +35,3 @@ A biblioteca do JDBC permite o Spark SQL extrair dados de qualquer banco de dado
 **Arquitetura do Databricks Lakehouse**
 
 - A localização completa dos dados do cliente, ficam no data plane (na conta de nuvem do cliente)
-
-**[[Inglês]]**
-
-hop = pulo/salto
-
-
-
-
-
-
-
-
-
-

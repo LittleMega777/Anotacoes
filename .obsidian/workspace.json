@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "96437e99d2ecceda",
+        "id": "85713d0d607be64c",
         "type": "tabs",
         "children": [
           {
-            "id": "4b548a064e328407",
+            "id": "d2c22b6048be0460",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "0. Diario/Diário - 04.10.2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Diário - 04.10.2025"
             }
           }
         ]
@@ -180,12 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b548a064e328407",
+  "active": "d2c22b6048be0460",
   "lastOpenFiles": [
-    "1. Conhecimentos Concretos/notas 01.md",
-    "README.md",
-    "4. Frases/Mega.md",
+    "1. Conhecimentos Concretos/Databricks.md",
     "0. Diario/Diário - 04.10.2025.md",
+    "1. Conhecimentos Concretos/Inglês.md",
+    "4. Frases/Mega.md",
+    "Frases.md",
+    "Untitled.md",
+    "README.md",
     "0. Diario/Diario - 10.03.2025.md",
     "2. Referencias/Referencias 01.md",
     "3. Ideias/Ideias 01.md",
