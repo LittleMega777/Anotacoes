@@ -11,14 +11,14 @@
             "id": "4b548a064e328407",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "4. Frases/Mega.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Mega"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -182,11 +182,11 @@
   },
   "active": "4b548a064e328407",
   "lastOpenFiles": [
-    "0. Diario/Diário - 04.10.2025.md",
-    "4. Frases/Mega.md",
-    "0. Diario/Diario - 10.03.2025.md",
-    "README.md",
     "1. Conhecimentos Concretos/notas 01.md",
+    "README.md",
+    "4. Frases/Mega.md",
+    "0. Diario/Diário - 04.10.2025.md",
+    "0. Diario/Diario - 10.03.2025.md",
     "2. Referencias/Referencias 01.md",
     "3. Ideias/Ideias 01.md",
     "4. Frases",
