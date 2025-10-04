@@ -13,15 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Conhecimentos Concretos/Databricks.md",
+                "file": "1. Conhecimentos Concretos/Databricks/01. Databricks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Databricks"
+              "title": "01. Databricks"
+            }
+          },
+          {
+            "id": "953594003eb742ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Diario/Diário - 04.10.2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diário - 04.10.2025"
+            }
+          },
+          {
+            "id": "efcfb8e0f958ec54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulario.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocabulario"
+            }
+          },
+          {
+            "id": "29edacdf935d450c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "baa0de1da79307b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Conhecimentos Concretos/Databricks/Tabelas Databricks a partir de Banco de dados JDBC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tabelas Databricks a partir de Banco de dados JDBC"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,12 +166,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Conhecimentos Concretos/Databricks.md",
+                "file": "0. Diario/Diário - 04.10.2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Databricks"
+              "title": "Outgoing links from Diário - 04.10.2025"
             }
           },
           {
@@ -142,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Conhecimentos Concretos/Databricks.md",
+                "file": "0. Diario/Diário - 04.10.2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Databricks"
+              "title": "Outline of Diário - 04.10.2025"
             }
           },
           {
@@ -181,17 +234,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2c22b6048be0460",
+  "active": "953594003eb742ae",
   "lastOpenFiles": [
+    "2. Referencias/Referencias 01.md",
+    "1. Conhecimentos Concretos/Inglês/01. Inglês.md",
+    "1. Conhecimentos Concretos/Databricks/Tabelas Databricks a partir de Banco de dados JDBC.md",
+    "1. Conhecimentos Concretos/Databricks/Pro SQL Warehouse.md",
+    "1. Conhecimentos Concretos/Databricks/Memory Optimized Worker.md",
+    "1. Conhecimentos Concretos/Databricks/Arquitetura do Databricks Lakehouse.md",
+    "1. Conhecimentos Concretos/Databricks/01. Databricks.md",
+    "Vocabulario.md",
     "0. Diario/Diário - 04.10.2025.md",
-    "1. Conhecimentos Concretos/Databricks.md",
-    "1. Conhecimentos Concretos/Inglês.md",
-    "4. Frases/Mega.md",
-    "Frases.md",
     "Untitled.md",
     "README.md",
+    "Frases.md",
+    "1. Conhecimentos Concretos/Databricks/Streaming DataFrame a partir de um tópico kafka.md",
+    "1. Conhecimentos Concretos/Inglês",
+    "1. Conhecimentos Concretos/Databricks",
+    "4. Frases/Mega.md",
     "0. Diario/Diario - 10.03.2025.md",
-    "2. Referencias/Referencias 01.md",
     "3. Ideias/Ideias 01.md",
     "4. Frases",
     "conflict-files-obsidian-git.md",

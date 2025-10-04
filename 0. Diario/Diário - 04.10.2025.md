@@ -1,7 +1,7 @@
 **Frases que eu pensei hoje de bobeira**
 "Ganho muito vendo de onde eu sai e pouco vendo onde eu quero chegar" - [[Mega]]
 
-**[[Databricks]]**
+**[[01. Databricks]]**
 
 **Como criar um streaming DataFrame a partir de um tópico Kafka**
 
@@ -41,9 +41,16 @@ A biblioteca do JDBC permite o Spark SQL extrair dados de qualquer banco de dado
 
 - A localização completa dos dados do cliente, ficam no data plane (na conta de nuvem do cliente)
 
-**[[Inglês]]**
+**Worker Memory Optimized**
 
-hop = pulo/salto
+Join's Spark especialmente feitos com datasets de grande escala ou com condições complexas de join, podem ser altamente 'memory-intensive' (utilizando muita memoria).
+
+Esse worker garante que operações em memoria podem ser completadas sem sobrecarregar o disco melhorando a performance.
+
+
+**[[01. Inglês]]**
+
+**hop** = pulo/salto
 
 
 

@@ -1,0 +1,1 @@
+**hop** = pulo/salto (verbo)
