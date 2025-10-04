@@ -11,14 +11,10 @@
             "id": "4b548a064e328407",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Frases/Frases.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Frases"
+              "title": "New tab"
             }
           }
         ]
@@ -180,15 +176,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b548a064e328407",
+  "active": "d1af1ef5580535c0",
   "lastOpenFiles": [
+    "0. Diario/Diario - 10.03.2025.md",
+    "4. Frases/Mega.md",
     "README.md",
     "0. Diario/Diario - 04.10.2025.md",
     "1. Conhecimentos Concretos/notas 01.md",
     "2. Referencias/Referencias 01.md",
     "3. Ideias/Ideias 01.md",
-    "4. Frases/Frases.md",
-    "0. Diario/Diario - 10.03.2025.md",
     "4. Frases",
     "conflict-files-obsidian-git.md",
     "Welcome.md",
