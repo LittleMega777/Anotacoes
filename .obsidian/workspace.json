@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Ideias/Ideias 01.md",
+                "file": "0. Diario/Diário - 04.10.2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Ideias 01"
+              "title": "Outgoing links from Diário - 04.10.2025"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Ideias/Ideias 01.md",
+                "file": "0. Diario/Diário - 04.10.2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ideias 01"
+              "title": "Outline of Diário - 04.10.2025"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2c22b6048be0460",
+  "active": "8274992a6e0c1935",
   "lastOpenFiles": [
     "1. Conhecimentos Concretos/Databricks.md",
     "0. Diario/Diário - 04.10.2025.md",
